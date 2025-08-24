@@ -1,0 +1,67 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Application Deduplicator</title>
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+<body>
+    <header>
+        <h1>Application Deduplicator</h1>
+        <p>Organize, Detect Duplicates, and Save Space</p>
+    </header>
+
+    <!-- Navbar -->
+    <div class="navbar">
+        <button class="active">Scanner</button>
+        <button>Duplicates</button>
+        <button>Categories</button>
+        <button>Security</button>
+        <button>Settings</button>
+    </div>
+
+    <!-- Dashboard Cards -->
+    <div class="dashboard">
+        <div class="card">
+            <h2>125</h2>
+            <p>Total Applications</p>
+        </div>
+        <div class="card">
+            <h2>18</h2>
+            <p>Duplicates Found</p>
+        </div>
+        <div class="card">
+            <h2>5</h2>
+            <p>Categories</p>
+        </div>
+        <div class="card">
+            <h2>Enabled</h2>
+            <p>Security</p>
+        </div>
+        <div class="card">
+            <h2>2.3 GB</h2>
+            <p>Space Saved</p>
+        </div>
+        <div class="card">
+            <h2>78%</h2>
+            <p>Scan Progress</p>
+        </div>
+    </div>
+
+    <!-- Directory Selection -->
+    <div class="directories">
+        <h3>Scan Directories</h3>
+
+        <div class="directory-options">
+            <label><input type="checkbox" name="dir1"> Program Files</label>
+            <label><input type="checkbox" name="dir2"> Downloads</label>
+            <label><input type="checkbox" name="dir3"> Custom Folder</label>
+        </div>
+
+        <label for="custom_path">Enter Custom Path:</label><br><br>
+        <input type="text" id="custom_path" placeholder="e.g., C:/Users/YourName/CustomFolder">
+        <button class="add-btn">Add Path</button>
+    </div>
+</body>
+</html>

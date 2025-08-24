@@ -1,0 +1,5 @@
+{
+  "Development": ["python", "vscode", "node"],
+  "Games": ["gta", "fifa", "nfs"],
+  "Browsers": ["chrome", "firefox", "edge"]
+}

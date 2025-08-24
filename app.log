@@ -1,0 +1,33 @@
+2025-08-06 19:12:22,195 - INFO - Scanning directories: []
+2025-08-06 19:13:26,419 - INFO - Scanning directories: []
+2025-08-06 19:13:28,826 - INFO - Scanning directories: []
+2025-08-06 19:15:04,568 - INFO - Scanning directories: ['C:/Users/gowda/OneDrive/Downloads/TestApps']
+2025-08-06 19:15:04,568 - INFO - Scanning directory: C:/Users/gowda/OneDrive/Downloads/TestApps
+2025-08-06 19:15:04,569 - INFO - Loaded categorization rules successfully.
+2025-08-06 19:15:04,638 - INFO - File C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.8-arm64.exe.exe - Copy - Copy1.exe categorized under 'Development'.
+2025-08-06 19:15:04,638 - INFO - Directory scanning completed.
+2025-08-06 19:21:45,070 - INFO - Scanning directories: ['C:/Users/gowda/OneDrive/Downloads/TestApps']
+2025-08-06 19:21:45,070 - INFO - Scanning directory: C:/Users/gowda/OneDrive/Downloads/TestApps
+2025-08-06 19:21:45,070 - INFO - Loaded categorization rules successfully.
+2025-08-06 19:21:45,108 - INFO - File C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.8-arm64.exe.exe - Copy - Copy1.exe categorized under 'Development'.
+2025-08-06 19:21:45,108 - INFO - Directory scanning completed.
+2025-08-06 20:19:46,821 - INFO - Scanning directories: ['C:/Users/gowda/OneDrive/Downloads/TestApps']
+2025-08-06 20:19:46,822 - INFO - Scanning directory: C:/Users/gowda/OneDrive/Downloads/TestApps
+2025-08-06 20:19:46,822 - INFO - Loaded categorization rules successfully.
+2025-08-06 20:19:46,863 - INFO - File C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe categorized under 'Development'.
+2025-08-06 20:19:46,903 - INFO - Duplicate found: C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2).exe == C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe
+2025-08-06 20:19:46,954 - INFO - Duplicate found: C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy - Copy.exe == C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe
+2025-08-06 20:19:46,993 - INFO - Duplicate found: C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy.exe == C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe
+2025-08-06 20:19:47,087 - INFO - Duplicate found: C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5.exe == C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe
+2025-08-06 20:19:47,141 - INFO - File C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.8-arm64.exe.exe - Copy - Copy1.exe categorized under 'Development'.
+2025-08-06 20:19:47,141 - INFO - Directory scanning completed.
+2025-08-06 22:58:49,791 - INFO - Scanning directories: ['C:/Users/gowda/OneDrive/Downloads/TestApps']
+2025-08-06 22:58:49,792 - INFO - Scanning directory: C:/Users/gowda/OneDrive/Downloads/TestApps
+2025-08-06 22:58:49,792 - INFO - Loaded categorization rules successfully.
+2025-08-06 22:58:49,841 - INFO - File C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe categorized under 'Development'.
+2025-08-06 22:58:49,887 - INFO - Duplicate found: C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2).exe == C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe
+2025-08-06 22:58:49,942 - INFO - Duplicate found: C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy - Copy.exe == C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe
+2025-08-06 22:58:49,996 - INFO - Duplicate found: C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy.exe == C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe
+2025-08-06 22:58:50,101 - INFO - Duplicate found: C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5.exe == C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.5 - Copy (2) - Copy.exe
+2025-08-06 22:58:50,160 - INFO - File C:/Users/gowda/OneDrive/Downloads/TestApps\python-3.12.8-arm64.exe.exe - Copy - Copy1.exe categorized under 'Development'.
+2025-08-06 22:58:50,160 - INFO - Directory scanning completed.
